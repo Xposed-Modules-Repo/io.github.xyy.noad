@@ -18,4 +18,5 @@
 ## 更新日志
 
 > 2025.08.20&nbsp; &nbsp;&nbsp;&nbsp;Ver 1.0.0&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.1.8版本
+
 > 2025.08.01&nbsp; &nbsp;&nbsp;&nbsp;Ver 1.0.0&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.1.7版本
