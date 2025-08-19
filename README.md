@@ -13,8 +13,9 @@
 
 **tg反馈、交流群：https://t.me/dyls_lsp**
 
-当前最新版本的模块适配【**v3.1.1.7**】
+当前最新版本的模块适配【**v3.1.1.8**】
 
 ## 更新日志
 
+> 2025.08.20&nbsp; &nbsp;&nbsp;&nbsp;Ver 1.0.0&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.1.8版本
 > 2025.08.01&nbsp; &nbsp;&nbsp;&nbsp;Ver 1.0.0&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.1.7版本
