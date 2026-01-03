@@ -12,10 +12,12 @@
 6. 去广场中随机插入的广告，保留正常视频
 
 **tg反馈、交流群：https://t.me/dyls_lsp**
+**tg资源频道：https://t.me/apkhook666**
 
-当前最新版本的模块适配【**v3.1.1.8**】
+当前最新版本的模块适配【**v3.1.2.0**】
 
 ## 更新日志
+> 2026.01.03&nbsp; &nbsp;&nbsp;&nbsp;Ver 1.2.0&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.2.0版本
 
 > 2025.08.20&nbsp; &nbsp;&nbsp;&nbsp;Ver 1.1.0&nbsp;&nbsp;&nbsp;适配电影猎手v3.1.1.8版本
 
