@@ -1,0 +1,1 @@
+["android", "io.github.xyy.noad"]
